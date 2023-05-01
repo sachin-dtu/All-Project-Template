@@ -19,7 +19,7 @@ Here are some screenshots of the website:
 1. [Beauty Product Template](https://github.com/sachin-dtu/All-Project-Template/blob/main/Beauty%20Product%20Template.jpg)
 <p align="center">
   <img src="https://github.com/sachin-dtu/All-Project-Template/blob/main/Beauty%20Product%20Template.jpg" width="350" title="hover text">
-</p>
+</p><br>
 2. [Consultant](https://github.com/sachin-dtu/All-Project-Template/blob/main/Cunsultant.jpg)
 <p align="center">
   <img src="https://github.com/sachin-dtu/All-Project-Template/blob/main/Cunsultant.jpg" width="350" title="hover text">
