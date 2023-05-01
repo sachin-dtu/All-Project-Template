@@ -16,11 +16,11 @@ This is a frontend template that can be used for various projects, such as perso
 
 ### **Screenshots**
 Here are some screenshots of the website:
-1. [Beauty Product Template](https://github.com/sachin-dtu/All-Project-Template/blob/main/Beauty%20Product%20Template.jpg)
+* [Beauty Product Template](https://github.com/sachin-dtu/All-Project-Template/blob/main/Beauty%20Product%20Template.jpg)
 <p align="center">
   <img src="https://github.com/sachin-dtu/All-Project-Template/blob/main/Beauty%20Product%20Template.jpg" width="350" title="hover text">
 </p><br>
-2. [Consultant](https://github.com/sachin-dtu/All-Project-Template/blob/main/Cunsultant.jpg)
+* [Consultant](https://github.com/sachin-dtu/All-Project-Template/blob/main/Cunsultant.jpg)
 <p align="center">
   <img src="https://github.com/sachin-dtu/All-Project-Template/blob/main/Cunsultant.jpg" width="350" title="hover text">
 </p>
