@@ -16,7 +16,7 @@ This is a frontend template that can be used for various projects, such as perso
 
 ### **Screenshots**
 Here are some screenshots of the website:
-[ELearning_Template](https://github.com/sachin-dtu/All-Project-Template/blob/main/Beauty%20Product%20Template.jpg)
+* [ELearning_Template](https://github.com/sachin-dtu/All-Project-Template/blob/main/Beauty%20Product%20Template.jpg)
 <p align="center">
   <img src="https://github.com/sachin-dtu/All-Project-Template/blob/main/Beauty%20Product%20Template.jpg" width="350" title="hover text">
   <img src="" width="350" alt="accessibility text">
