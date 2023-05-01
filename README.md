@@ -16,8 +16,7 @@ This is a frontend template that can be used for various projects, such as perso
 
 ### **Screenshots**
 Here are some screenshots of the website:
-
-Screenshot 1
+![Alt Text](Farm Fresh.jpg)
 Screenshot 2
 Screenshot 3
 Screenshot 4
