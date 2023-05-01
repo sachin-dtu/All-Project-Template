@@ -16,7 +16,7 @@ This is a frontend template that can be used for various projects, such as perso
 
 ### **Screenshots**
 Here are some screenshots of the website:
-[ELearning_Template](ELearning_Template pic.jpg)
+[ELearning_Template](https://github.com/sachin-dtu/All-Project-Template/blob/main/Beauty%20Product%20Template.jpg)
 Screenshot 2
 Screenshot 3
 Screenshot 4
