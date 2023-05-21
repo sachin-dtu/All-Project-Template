@@ -10,7 +10,7 @@ This is a frontend template that can be used for various projects, such as perso
 * Includes a set of reusable components, such as headers, footers, and navigation menus, that can be easily added to any page.
 * Compatible with popular front-end frameworks like Bootstrap and Foundation.
 ### **Getting Started**
-* To use this template, simply download the files and customize them to fit your needs. The template is built with HTML, CSS, and JavaScript, so you can easily modify the code to add your own content, styles, and functionality.
+* To use this template, simply download the files and customize them to fit your needs. The template is built with HTML, CSS, and JavaScript, so you can easily modify the code to add your own content, style, and functionality.
 
 * If you're not familiar with front-end development, you can use this template as a starting point and learn as you go. There are plenty of resources available online to help you learn HTML, CSS, and JavaScript, including tutorials, documentation, and online courses.
 
